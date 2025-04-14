@@ -16,7 +16,7 @@ The application generates a professional **accuracy report** and a clean, easy-t
 - Manually assign actual labels to each batch.
 - Predict results using your own pre-trained model (`cat_dog_model.h5`).
 - Get a visual and statistical breakdown of:
-  - Accuracy (% correct predictions)
+  - Accuracy (70% to 80% correct predictions)
   - Predicted and actual label distribution
   - Dual-layer pie chart for clean comparison.
 - Clean, responsive web interface — no programming required to use!
