@@ -1,4 +1,4 @@
-Cat vs Dog Classifier Web App**
+Cat vs Dog Classifier Web App
 
 ---
 
